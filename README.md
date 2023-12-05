@@ -51,9 +51,7 @@
 
   <p>Contributions are welcome! Feel free to open issues or submit pull requests to enhance functionality or address any bugs.</p>
 
-  <h2>License</h2>
-
-  <p>This project is licensed under the <a href="LICENSE" target="_blank" rel="noopener noreferrer">MIT License</a>.</p>
+  
 
   <h2>Acknowledgments</h2>
 
