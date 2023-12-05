@@ -4,38 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Student Management System README</title>
-  <style>
-    body {
-      font-family: 'Arial', sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-    }
-    a {
-      color: #007BFF;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    h1 {
-      color: #333;
-    }
-    h2 {
-      color: #333;
-      border-bottom: 1px solid #ccc;
-      padding-bottom: 5px;
-    }
-    h3 {
-      color: #333;
-    }
-    p {
-      margin-bottom: 15px;
-    }
-    ul {
-      list-style-type: square;
-      margin-left: 20px;
-    }
-  </style>
+  
 </head>
 <body>
 
