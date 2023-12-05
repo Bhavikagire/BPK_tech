@@ -17,15 +17,6 @@
 
   <h2>Table of Contents</h2>
 
-  <ul>
-   
-    <li><a href="#features">Features</a></li>
-    <li><a href="#api-integration">API Integration</a></li>
-    <li><a href="#dependencies">Dependencies</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ul>
-
-  
   <h2>Features</h2>
 
   <h3>1. Add Student</h3>
