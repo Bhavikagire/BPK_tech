@@ -18,27 +18,14 @@
   <h2>Table of Contents</h2>
 
   <ul>
-    <li><a href="#getting-started">Getting Started</a></li>
+   
     <li><a href="#features">Features</a></li>
     <li><a href="#api-integration">API Integration</a></li>
     <li><a href="#dependencies">Dependencies</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ul>
 
-  <h2>Getting Started</h2>
-
-  <ol>
-    <li>Clone the repository to your local machine:</li>
-  </ol>
-
-  <pre><code>git clone &lt;repository-url&gt;</code></pre>
-
-  <ol start="2">
-    <li>Open the <code>index.html</code> file in a web browser.</li>
-  </ol>
-
+  
   <h2>Features</h2>
 
   <h3>1. Add Student</h3>
